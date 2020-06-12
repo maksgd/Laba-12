@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Notebook</h1>
+    <h1 class="jumbotron text-center">Notebook</h1>
     <contacts></contacts>
   </div>
 </template>

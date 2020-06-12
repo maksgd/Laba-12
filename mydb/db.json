@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "surname": "Звягин",
+      "name": "Максим",
+      "otchestvo": "Шахбанович",
+      "phone": "7 985 933 56 06",
+      "fav": true,
+      "id": 1
+    },
+    {
+      "surname": "Якимова",
+      "name": "Ольга",
+      "otchestvo": "Викторовна",
+      "phone": "7 967 218 56 64",
+      "fav": true,
+      "id": 2
+    },
+    {
+      "surname": "Аскеров",
+      "name": "Виталий",
+      "otchestvo": "Маратович",
+      "phone": "7 925 290 89 56",
+      "fav": false,
+      "id": 3
+    },
+    {
+      "surname": "Кукушкина",
+      "name": "Анастасия",
+      "otchestvo": "Максимовна",
+      "phone": "7 943 842 34 12",
+      "fav": false,
+      "id": 4
+    },
+    {
+      "surname": "Тасуев",
+      "name": "Тимур",
+      "otchestvo": "Олегович",
+      "phone": "7 916 612 43 73",
+      "fav": true,
+      "id": 5
+    }
+  ]
+}
